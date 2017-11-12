@@ -1,0 +1,126 @@
+{
+  "data": {
+    "result": [
+      {
+        "managementStatus": "{key: \"managed\", value: \"Apparity Managed\"}",
+        "fileName": "Test-Managed.xlsx",
+        "id": 64,
+        "name": "wef-111017-161004",
+        "type": "Excel",
+        "inputType": "System",
+        "uncPath": "\\\\apparitytest\\Apparity Demo Data\\not in use\\Test-Managed.xlsx",
+        "lastModifiedAt": "Oct 11, 2017 10:52:06 AM",
+        "lastModifiedBy": {
+          "lastName": "Bakliwal",
+          "firstName": "Naman",
+          "emailId": "nmnbakliwal18@gmail.com",
+          "isLdap": false,
+          "password": "123456",
+          "displayName": "Naman Bakliwal (naman)",
+          "lastAccessedAt": "Oct 13, 2017 10:27:15 AM",
+          "id": 4,
+          "userName": "naman"
+        },
+        "createdAt": "Oct 11, 2017 5:22:04 AM",
+        "createdBy": {
+          "lastName": "Bakliwal",
+          "firstName": "Naman",
+          "emailId": "nmnbakliwal18@gmail.com",
+          "isLdap": false,
+          "password": "123456",
+          "displayName": "Naman Bakliwal (naman)",
+          "lastAccessedAt": "Oct 13, 2017 10:27:15 AM",
+          "id": 4,
+          "userName": "naman"
+        },
+        "data": "{}",
+        "retired": false,
+        "active": true,
+        "workflowList": [],
+        "dataJsonFrag": false
+      },
+      {
+        "managementStatus": "{key: \"registered\", value: \"Registered\"}",
+        "fileName": "Test-Registered.xlsx",
+        "id": 64,
+        "name": "wef-111017-161004",
+        "type": "Excel",
+        "inputType": "System",
+        "uncPath": "\\\\apparitytest\\Apparity Demo Data\\not in use\\Test-Registered.xlsx",
+        "lastModifiedAt": "Oct 11, 2017 10:52:06 AM",
+        "lastModifiedBy": {
+          "lastName": "Bakliwal",
+          "firstName": "Naman",
+          "emailId": "nmnbakliwal18@gmail.com",
+          "isLdap": false,
+          "password": "123456",
+          "displayName": "Naman Bakliwal (naman)",
+          "lastAccessedAt": "Oct 13, 2017 10:27:15 AM",
+          "id": 4,
+          "userName": "naman"
+        },
+        "createdAt": "Oct 11, 2017 5:22:04 AM",
+        "createdBy": {
+          "lastName": "Bakliwal",
+          "firstName": "Naman",
+          "emailId": "nmnbakliwal18@gmail.com",
+          "isLdap": false,
+          "password": "123456",
+          "displayName": "Naman Bakliwal (naman)",
+          "lastAccessedAt": "Oct 13, 2017 10:27:15 AM",
+          "id": 4,
+          "userName": "naman"
+        },
+        "data": "{}",
+        "retired": false,
+        "active": true,
+        "workflowList": [],
+        "dataJsonFrag": false
+      },
+      {
+        "managementStatus": "{key: \"unRegistered\", value: \"Un - Registered\"}",
+        "fileName": "Test-UnRegistered.xlsx",
+        "id": 64,
+        "name": "wef-111017-161004",
+        "type": "Excel",
+        "inputType": "System",
+        "uncPath": "\\\\apparitytest\\Apparity Demo Data\\not in use\\Test-UnRegistered.xlsx",
+        "lastModifiedAt": "Oct 11, 2017 10:52:06 AM",
+        "lastModifiedBy": {
+          "lastName": "Bakliwal",
+          "firstName": "Naman",
+          "emailId": "nmnbakliwal18@gmail.com",
+          "isLdap": false,
+          "password": "123456",
+          "displayName": "Naman Bakliwal (naman)",
+          "lastAccessedAt": "Oct 13, 2017 10:27:15 AM",
+          "id": 4,
+          "userName": "naman"
+        },
+        "createdAt": "Oct 11, 2017 5:22:04 AM",
+        "createdBy": {
+          "lastName": "Bakliwal",
+          "firstName": "Naman",
+          "emailId": "nmnbakliwal18@gmail.com",
+          "isLdap": false,
+          "password": "123456",
+          "displayName": "Naman Bakliwal (naman)",
+          "lastAccessedAt": "Oct 13, 2017 10:27:15 AM",
+          "id": 4,
+          "userName": "naman"
+        },
+        "data": "{}",
+        "retired": false,
+        "active": true,
+        "workflowList": [],
+        "dataJsonFrag": false
+      }
+    ],
+    "pageNumber": 0,
+    "pageSize": 0,
+    "totalCount": 3,
+    "managedFilesCount": 1,
+    "registeredFilesCount": 1,
+    "unRegisteredFilesCount": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "Test1" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": [{ "userName": "test1", "email":"test1@gmail.com", "name": "Test1" },{ "userName": "test2", "email":"test2@gmail.com", "name": "Test2" }],
+  "categories": [
+  {"category": "Sporting Goods", "price": "$49.99", "stocked": true, "name": "Football"},
+  {"category": "Sporting Goods", "price": "$9.99", "stocked": true, "name": "Baseball"},
+  {"category": "Sporting Goods", "price": "$29.99", "stocked": false, "name": "Basketball"},
+  {"category": "Electronics", "price": "$99.99", "stocked": true, "name": "iPod Touch"},
+  {"category": "Electronics", "price": "$399.99", "stocked": false, "name": "iPhone 5"},
+  {"category": "Electronics", "price": "$199.99", "stocked": true, "name": "Nexus 7"}
+]
+}
